@@ -1,6 +1,6 @@
 # Hi i'am mnnur
-## currently i'm looking for your support.
-you can support me by buying me some coffee.
+## Currently i'm looking for your support.
+### you can support me by buying me some coffee.
 
 <!---
 mnnur/mnnur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
