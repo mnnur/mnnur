@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @mnnur
-- 👀 I’m interested in you
-- 🌱 I’m currently learning you
-- 💞️ I’m looking to collaborate on life
-- 📫 How to reach me i'm reaching you
+Hi i'm mnnur and currently i'm looking for your support, you can support me by buying me some coffe.
 
 <!---
 mnnur/mnnur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
